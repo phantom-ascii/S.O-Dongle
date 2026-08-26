@@ -68,3 +68,7 @@ What do you think?
 ### Aug 26 22:59
 Alr so basicly the keychain hole is too small to acutally be used if i make a case and i cant rezlly make it leager without it looking dorky so im going to use it as a mounitng hole. So yhhhh
 
+I made the case now im going to creat the lid 
+
+<img width="550" height="511" alt="image" src="https://github.com/user-attachments/assets/cce5356c-3fb6-41c2-86ba-d2d30e2239ef" />
+
