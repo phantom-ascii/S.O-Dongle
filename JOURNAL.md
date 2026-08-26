@@ -37,3 +37,16 @@ I assigned all the footprints and 3d models i made the edge cuts and laid out my
 <img width="145" height="425" alt="image" src="https://github.com/user-attachments/assets/5a246664-73a4-44d5-ae3f-c7fb63d9a880" />
 
 Im thinking about aiddding an led to show when the bootflahs button is being pressed. Well see if i add it.
+
+### Aug 26 18:54
+Alr guys no LED it would ruin the data lines apparently. Anyways i routed the wires, made the copper pours and changed up the edge cut a bit. I also fixxed all the errors. I only have silkscreen warnings now:
+
+<img width="158" height="438" alt="image" src="https://github.com/user-attachments/assets/d390d3e7-9511-4e42-8876-6b6b00932368" />
+<img width="106" height="47" alt="image" src="https://github.com/user-attachments/assets/2c1ed265-af46-4bb9-b39b-4745225fefab" />
+
+Heres a 3D view of the pcb:
+
+<img width="694" height="661" alt="image" src="https://github.com/user-attachments/assets/9d606674-952b-4c29-bfe4-be0051d60012" />
+mmm.. raytracing... mmmm...
+
+Onto the silkscreen art... Byeee
