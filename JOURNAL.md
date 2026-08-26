@@ -50,3 +50,10 @@ Heres a 3D view of the pcb:
 mmm.. raytracing... mmmm...
 
 Onto the silkscreen art... Byeee
+
+### Aug 26 21:09
+And i have finished the art. Personally i think it looks decent. I also added a secret HackClub flag under the OLED.
+
+<img width="850" height="346" alt="image" src="https://github.com/user-attachments/assets/0c089f51-96b5-4a69-9392-67bbee40a2ca" />
+<img width="850" height="346" alt="image" src="https://github.com/user-attachments/assets/d296435c-6d33-4486-ac28-0e9b60eaf661" />
+
