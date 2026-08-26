@@ -12,3 +12,13 @@ I just finished the schematics im going for a flat surface mount pcb with ch552g
 <img width="699" height="508" alt="image" src="https://github.com/user-attachments/assets/f6e8d0d9-8e97-4535-97a3-c1962bd040cf" />
 
 Imma go sleep now. ill make the pcb in the day. Goodnight...
+
+### AUG 26 6:33
+Guess no sleep for us i need to fix this button. Thx to sophia from the hackclub team for pointing the out the problem. 
+<img width="427" height="303" alt="image" src="https://github.com/user-attachments/assets/84cb215f-b0e3-4790-898e-b6bc6ead8cdd" />
+
+Thats the current button we need to fix it.
+
+<img width="817" height="491" alt="image" src="https://github.com/user-attachments/assets/2f1feabb-7011-4def-b17a-9321f4581719" />
+
+I Fixed the button. I also layed out the power nodes nicer (gnd down, power up)
