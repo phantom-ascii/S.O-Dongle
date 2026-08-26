@@ -22,3 +22,11 @@ Thats the current button we need to fix it.
 <img width="817" height="491" alt="image" src="https://github.com/user-attachments/assets/2f1feabb-7011-4def-b17a-9321f4581719" />
 
 I Fixed the button. I also layed out the power nodes nicer (gnd down, power up)
+And guess what guys
+
+### Aug 26 16:07
+Anddd guexs what. I made another mistake and had to fix it casue my d+ was connected to gnd which would have shoted the system. So here is the final schematic(*hopefully*).
+
+<img width="938" height="624" alt="image" src="https://github.com/user-attachments/assets/5ea3e39f-d525-4786-915a-9be6199ba365" />
+
+Time to make the pcb
