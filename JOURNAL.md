@@ -30,3 +30,10 @@ Anddd guexs what. I made another mistake and had to fix it casue my d+ was conne
 <img width="938" height="624" alt="image" src="https://github.com/user-attachments/assets/5ea3e39f-d525-4786-915a-9be6199ba365" />
 
 Time to make the pcb
+
+### Aug 26 17:19
+I assigned all the footprints and 3d models i made the edge cuts and laid out my pcb:
+<img width="415" height="494" alt="image" src="https://github.com/user-attachments/assets/0b94a196-88d8-4919-9e24-e43c51e89522" />
+<img width="145" height="425" alt="image" src="https://github.com/user-attachments/assets/5a246664-73a4-44d5-ae3f-c7fb63d9a880" />
+
+Im thinking about aiddding an led to show when the bootflahs button is being pressed. Well see if i add it.
