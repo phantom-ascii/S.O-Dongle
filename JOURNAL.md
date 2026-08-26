@@ -68,7 +68,16 @@ What do you think?
 ### Aug 26 22:59
 Alr so basicly the keychain hole is too small to acutally be used if i make a case and i cant rezlly make it leager without it looking dorky so im going to use it as a mounitng hole. So yhhhh
 
-I made the case now im going to creat the lid 
+I made the case now im going to create the lid 
 
 <img width="550" height="511" alt="image" src="https://github.com/user-attachments/assets/cce5356c-3fb6-41c2-86ba-d2d30e2239ef" />
+
+
+### Aug 26 23:31
+Finished the case and the Lid. Im going to now add some like graphics or smth to the lid and then im going to make me github repo quickly and export all necessarey files then work on firmware.
+
+<img width="707" height="548" alt="image" src="https://github.com/user-attachments/assets/45ef66c5-9d8b-485c-b116-8dcab3e6471c" />
+<img width="744" height="604" alt="image" src="https://github.com/user-attachments/assets/e6222124-5a27-4998-b2c9-cec5c1d9f2e9" />
+<img width="744" height="604" alt="image" src="https://github.com/user-attachments/assets/9de89afb-dbe5-403b-8d26-88da3a2e2023" />
+
 
