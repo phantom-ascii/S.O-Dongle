@@ -57,3 +57,12 @@ And i have finished the art. Personally i think it looks decent. I also added a 
 <img width="850" height="346" alt="image" src="https://github.com/user-attachments/assets/0c089f51-96b5-4a69-9392-67bbee40a2ca" />
 <img width="850" height="346" alt="image" src="https://github.com/user-attachments/assets/d296435c-6d33-4486-ac28-0e9b60eaf661" />
 
+###Aug 26 21:29
+I added a little hole in the pcb for keychains to fit in. Itas about 2.5mm in diameter and i put it in edge.cut.
+
+<img width="957" height="388" alt="image" src="https://github.com/user-attachments/assets/fb6d3b6f-075c-4aff-b95a-010fde1fa7c4" />
+<img width="811" height="575" alt="image" src="https://github.com/user-attachments/assets/e7ed6e5f-2ac6-4cc1-aad0-cb6b7ce91f51" />
+
+What do you think?
+
+
