@@ -65,4 +65,6 @@ I added a little hole in the pcb for keychains to fit in. Itas about 2.5mm in di
 
 What do you think?
 
+### Aug 26 22:59
+Alr so basicly the keychain hole is too small to acutally be used if i make a case and i cant rezlly make it leager without it looking dorky so im going to use it as a mounitng hole. So yhhhh
 
