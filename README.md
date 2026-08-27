@@ -13,6 +13,9 @@ At the moment the software is only written for Ubuntu (my daily driver) but i ma
 
 Anyway here is some eye candy:
 
+<img width="485" height="595" alt="image" src="https://github.com/user-attachments/assets/86e62ff3-e36b-427e-acb4-dc3979c61159" />
+
+<img width="679" height="355" alt="image" src="https://github.com/user-attachments/assets/54cadd7c-61b1-4b71-be84-1901e12d2039" />
 
 <img width="877" height="521" alt="image" src="https://github.com/user-attachments/assets/87d62fe3-5697-473f-b18f-8e816ef85d01" />
 
