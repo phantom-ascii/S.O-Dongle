@@ -37,17 +37,27 @@ Now we are done with that here is the bom:
 
 ## Bill of Materials (BOM)
 
-| Item # | Part Name / Description | Category | Qty | Unit Cost ($) | Est. Shipping ($) | Total Cost ($) | Source / Link |
+| Item # | Part Name / Description | Category | Qty | Unit Cost ($) | Shipping ($) | Total Cost ($) | Source / Link |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1** | CH552G Microcontroller | Active Components | 1 | $0.60 | $3.00 | $3.60 | [LCSC CH552G](https://jlcpcb.com/partdetail/wch_jiangsu_Qin_heng-CH552G/C111292) |
-| **2** | 0.96" I2C OLED Display (128x64 SSD1306) | Displays | 1 | $1.50 | $2.00 | $3.50 | [AliExpress](https://www.aliexpress.com) |
-| **3** | Custom PCB Fabrication (2-Layer, Edge USB) | PCB | 5 | $2.00 | $5.00 | $15.00 | [JLCPCB](https://jlcpcb.com) |
-| **4** | 10kΩ Resistor (0805) | Passives | 1 | $0.01 | $0.00 | $0.01 | [LCSC](https://www.lcsc.com) |
-| **5** | 100nF Capacitor (0805) | Passives | 2 | $0.01 | $0.00 | $0.02 | [LCSC](https://www.lcsc.com) |
+| **1** | CH552G Microcontroller (C111292) | Active Components | 1 | $0.60 | $0.00 | $0.60 | [LCSC](https://www.lcsc.com) |
+| **2** | 0.91" I2C OLED Display (128x64 SSD1306) | Displays | 1 | $1.50 | $2.00 | $3.50 | [AliExpress](https://www.aliexpress.com) |
+| **3** | Custom PCB Fabrication (Qty 5, White, ENIG, Edge USB) | PCB | 5 | $4.14 | $5.28 | $25.98 | [JLCPCB](https://jlcpcb.com) |
+| **4** | 10kΩ Resistor (0603/0805) | Passives | 1 | $0.01 | $0.00 | $0.01 | [LCSC](https://www.lcsc.com) |
+| **5** | 100nF Capacitor (0603/0805) | Passives | 2 | $0.01 | $0.00 | $0.02 | [LCSC](https://www.lcsc.com) |
 | **6** | SMD Tactile Push Button (Boot) | Electromechanical | 1 | $0.10 | $0.00 | $0.10 | [LCSC](https://www.lcsc.com) |
-| **7** | Custom 3D Printed Case & Lid (Body + Lid) | JLC3DP 3D Printing | 1 set | $4.00 | $3.00 | $7.00 | [JLC3DP](https://jlc3dp.com) |
+| **7** | Custom 3D Printed Case (`Case.step`) | 3D Printing | 1 | $0.43 | $0.00 | $0.43 | [JLCPCB 3DP](https://jlcpcb.com) |
+| **8** | Custom 3D Printed Lid (`Lid.step`) | 3D Printing | 1 | $0.31 | $0.00 | $0.31 | [JLCPCB 3DP](https://jlcpcb.com) |
 
-### Cost Summary
-* **Total Components & Hardware:** $22.23
-* **Estimated Shipping & Handling:** $13.00
-* **Estimated Grand Total:** **$35.23**
+---
+
+## Cost Summary
+
+* **Total Components & Hardware:** $2.96
+* **PCB Fabrication (Qty 5):** $20.70
+* **3D Printed Enclosure (`Case.step` + `Lid.step`):** $0.74
+* **Exact Shipping & Handling:** $5.28
+* **Subtotal (Before Coupon):** $29.68
+* **Coupon Applied:** -$20.00
+* **Exact Grand Total:** **$9.68** *(or $6.72 with current cart totals)*
+
+<img width="1405" height="648" alt="image" src="https://github.com/user-attachments/assets/34c42cf3-da1d-4706-8f6f-871a757a6280" />
