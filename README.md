@@ -1,5 +1,4 @@
-<img width="1024" height="394" alt="image" src="https://github.com/user-attachments/assets/4ca61fd0-52de-4121-98f7-79f94e5f9d61" />
-
+<img width="687" height="257" alt="image" src="https://github.com/user-attachments/assets/735b80bd-fb59-4659-989e-2bc2b8dca77e" />
 
 # S.O Dongle 
 ## -by a 14 yr old kid
