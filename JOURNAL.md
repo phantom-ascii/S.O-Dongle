@@ -81,3 +81,10 @@ Finished the case and the Lid. Im going to now add some like graphics or smth to
 <img width="744" height="604" alt="image" src="https://github.com/user-attachments/assets/9de89afb-dbe5-403b-8d26-88da3a2e2023" />
 
 
+### Aug 27 00:55
+Chamfered the left wall and polished the 3d case a bit
+
+<img width="877" height="521" alt="image" src="https://github.com/user-attachments/assets/b019e071-b566-45ef-8f09-dfa218ed770d" />
+<img width="877" height="521" alt="image" src="https://github.com/user-attachments/assets/48d41115-1115-43b4-b162-26430b254ea9" />
+
+I also wrote 2 small scripts. One was in c++ for the actual mcu firmware and one was a .py for my ubuntu system which would send my mcu my system specs. Thats about it and im currently fixing up the repo(folder management and readme) and then i will submit it. This was an amazing journy. Thanks to sophia for hosting this program. I rly learnt so much about c++ python pcbs 3d modelling and so much more from the past 2 days and i cant wait to see what other programs you have in store for us. Hope you enjoined reading.
