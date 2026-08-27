@@ -1,5 +1,5 @@
 # S.O Dongle 
-#-by a 14 yr old kid
+# -by a 14 yr old kid
 
 ## A fully diy dongle that shows your pcs stats(such as ram and cpu usage) on a 0.91 oled display.
 
