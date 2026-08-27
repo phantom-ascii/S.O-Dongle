@@ -35,29 +35,26 @@ Anyway here is some eye candy:
 
 Now we are done with that here is the bom:
 
-## Bill of Materials (BOM)
+##  Bill of Materials (BOM) & Links
 
-| Item # | Part Name / Description | Category | Qty | Unit Cost ($) | Shipping ($) | Total Cost ($) | Source / Link |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1** | CH552G Microcontroller (C111292) | Active Components | 1 | $0.60 | $0.00 | $0.60 | [LCSC](https://www.lcsc.com) |
-| **2** | 0.91" I2C OLED Display (128x64 SSD1306) | Displays | 1 | $1.50 | $2.00 | $3.50 | [AliExpress](https://www.aliexpress.com) |
-| **3** | Custom PCB Fabrication (Qty 5, White, ENIG, Edge USB) | PCB | 5 | $4.14 | $5.28 | $25.98 | [JLCPCB](https://jlcpcb.com) |
-| **4** | 10kΩ Resistor (0603/0805) | Passives | 1 | $0.01 | $0.00 | $0.01 | [LCSC](https://www.lcsc.com) |
-| **5** | 100nF Capacitor (0603/0805) | Passives | 2 | $0.01 | $0.00 | $0.02 | [LCSC](https://www.lcsc.com) |
-| **6** | SMD Tactile Push Button (Boot) | Electromechanical | 1 | $0.10 | $0.00 | $0.10 | [LCSC](https://www.lcsc.com) |
-| **7** | Custom 3D Printed Case (`Case.step`) | 3D Printing | 1 | $0.43 | $0.00 | $0.43 | [JLCPCB 3DP](https://jlcpcb.com) |
-| **8** | Custom 3D Printed Lid (`Lid.step`) | 3D Printing | 1 | $0.31 | $0.00 | $0.31 | [JLCPCB 3DP](https://jlcpcb.com) |
+| Item # | Part Name / Description | Qty Needed | Footprint / Package | Source & Part # / Link |
+| :---: | :--- | :---: | :--- | :--- |
+| **1** | CH552G 8-bit USB Microcontroller (`U1`) | 1 | SOP-16 | [LCSC (C111292)](https://www.lcsc.com/search?q=C111292) |
+| **2** | 100nF (0.1µF) Decoupling Capacitor (`C1`, `C2`) | 2 | 0603 | [LCSC (C14663)](https://www.lcsc.com/search?q=C14663) |
+| **3** | 10kΩ Chip Resistor (`R1`) | 1 | 0603 | [LCSC (C25804)](https://www.lcsc.com/search?q=C25804) |
+| **4** | SMD Tactile Push Button (`SW1`) | 1 | 6x6mm (5mm height) | [LCSC (C2837531)](https://www.lcsc.com/search?q=C2837531) |
+| **5** | 0.91" I2C OLED Display Module (White, 128x32, 4-pin) | 1 | Module | [AliExpress](https://www.aliexpress.com/item/1005003727192340.html) |
+| **6** | USB-A Edge Connector (`J1`) | 1 | Direct PCB Trace | Integrated on PCB |
+| **7** | Custom 3D Printed Case & Lid (`Case.step` + `Lid.step`) | 1 set | 9600 Resin (White) | [JLCPCB 3DP](https://jlcpcb.com/3d-printing) |
+| **8** | Custom PCB Prototype (White, ENIG Finish, Qty 5) | 5 | 2-Layer Board | [JLCPCB](https://jlcpcb.com) |
 
 ---
 
-## Cost Summary
+## Manufacturing & Assembly
 
-* **Total Components & Hardware:** $2.96
-* **PCB Fabrication (Qty 5):** $20.70
-* **3D Printed Enclosure (`Case.step` + `Lid.step`):** $0.74
-* **Exact Shipping & Handling:** $5.28
-* **Subtotal (Before Coupon):** $29.68
-* **Coupon Applied:** -$20.00
-* **Exact Grand Total:** **$9.68** *(or $6.72 with current cart totals)*
+1. **PCBs & 3D Prints:** Ordered via [JLCPCB](https://jlcpcb.com) (White solder mask, ENIG finish) and [JLCPCB 3DP](https://jlcpcb.com/3d-printing) (9600 Resin, White).
+2. **Electronics & Switch:** Microcontroller, passives, and tactile switch ordered via [LCSC](https://www.lcsc.com).
+3. **Display:** 0.91" 4-pin I2C OLED display ordered via [AliExpress](https://www.aliexpress.com).
+4. **Hand Soldering EVERYTHING**
 
 <img width="1405" height="648" alt="image" src="https://github.com/user-attachments/assets/34c42cf3-da1d-4706-8f6f-871a757a6280" />
