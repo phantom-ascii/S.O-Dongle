@@ -1,6 +1,11 @@
 # JOURNAL 
 ## -written by @phantom.ascii
 
+## Overview:
+Timespent: ~14hrs (idk the exact amount as i didnt know i had to record how long i spent until now as im finishing up my repo so i looked at journal timings and made an honest guess)
+This is S.O Dongle. A dongle made for convenience. It has an oled display which will display your pcs specs for example cpu and ram usage. The software is currently based for Ubuntu but i might make it more accessible for other os later. The firmware is built on C. the pcb itself has alot of art on the silkscreen, a flash boot button the mcu its self, capacitors and resistor, the 0.91 oled and the usb-a tongue. I had alot of fun during this project and learnt alot about electronics. Thx to Sophia and the team for hosting this program. Cant wait to see what else you cook up.
+
+
 ### August 26 2026 4am
 The start:
 This is the time i started the ysws, dongle. I got a message of a new ysws and immediately i got to work. I brainstormed for a while and eventually came up with a project. An oled, usb-a pc stats checker built around my own firmware.
