@@ -1,7 +1,11 @@
-# S.O Dongle 
-# -by a 14 yr old kid
+<img width="1024" height="394" alt="image" src="https://github.com/user-attachments/assets/4ca61fd0-52de-4121-98f7-79f94e5f9d61" />
 
-## A fully diy dongle that shows your pcs stats(such as ram and cpu usage) on a 0.91 oled display.
+
+# S.O Dongle 
+## -by a 14 yr old kid
+
+## Overview:
+### A fully diy dongle that shows your pcs stats(such as ram and cpu usage) on a 0.91 oled display.
 
 This project was made fully by me for the #dongle program on hackclub.com. Thx to the team for hosting this program
 Ive always had a love for creating and tech so when you put the 2 together you  get hardware and hence i am here creating a dongle with softwares ive never touched before but its all part of the journey.
