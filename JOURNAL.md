@@ -106,6 +106,7 @@ Chamfered the left wall and polished the 3d case a bit
 I also wrote 2 small scripts. One was in c++ for the actual mcu firmware and one was a .py for my ubuntu system which would send my mcu my system specs. Thats about it and im currently fixing up the repo(folder management and readme) and then i will submit it. This was an amazing journy. Thanks to sophia for hosting this program. I rly learnt so much about c++ python pcbs 3d modelling and so much more from the past 2 days and i cant wait to see what other programs you have in store for us. Hope you enjoined reading.
 
 ### Aug 29 01:10
+**Total time spent: 10mins**
 After review the fnal decision ins freekick to liverpool. All jokes aside i had to fix a mistake after review. I had to add an extrusion to the case right under the usb toungue so that the usb would be more rigid whilst inserting. Anyways here it is:
 
 <img width="760" height="508" alt="image" src="https://github.com/user-attachments/assets/9e3270bf-d9d3-44e6-b31f-ae008edf53ec" />
