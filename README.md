@@ -22,9 +22,11 @@ Anyway here is some eye candy:
 
 <img width="486" height="667" alt="image" src="https://github.com/user-attachments/assets/1c2f8f9e-02be-4975-bfe5-ebf45ba6f1a4" />
 
-<img width="877" height="530" alt="image" src="https://github.com/user-attachments/assets/0c803d69-befb-4b98-815d-b29ab867d83a" />
+<img width="760" height="508" alt="image" src="https://github.com/user-attachments/assets/9a9df3e2-5560-4abe-ba67-c299853cd515" />
 
-<img width="877" height="530" alt="image" src="https://github.com/user-attachments/assets/205c680b-09ed-4114-95e5-bef5d4807d70" />
+<img width="471" height="524" alt="image" src="https://github.com/user-attachments/assets/21de51db-e983-4161-b516-683a08e80b45" />
+
+<img width="471" height="524" alt="image" src="https://github.com/user-attachments/assets/153067d6-82ac-4932-9581-8865cfd658a5" />
 
 <img width="877" height="530" alt="image" src="https://github.com/user-attachments/assets/b13cfeae-69ba-4323-9a58-6fec0759edab" />
 
