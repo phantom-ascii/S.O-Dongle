@@ -16,8 +16,6 @@ Anyway here is some eye candy:
 
 <img width="679" height="355" alt="image" src="https://github.com/user-attachments/assets/54cadd7c-61b1-4b71-be84-1901e12d2039" />
 
-<img width="877" height="521" alt="image" src="https://github.com/user-attachments/assets/87d62fe3-5697-473f-b18f-8e816ef85d01" />
-
 <img width="860" height="430" alt="image" src="https://github.com/user-attachments/assets/4659d30f-f96b-441e-96d3-537ea2199f69" />
 
 <img width="486" height="667" alt="image" src="https://github.com/user-attachments/assets/1c2f8f9e-02be-4975-bfe5-ebf45ba6f1a4" />
